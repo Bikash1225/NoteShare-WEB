@@ -1,8 +1,5 @@
 # NOTES SHARE (Minor Project)
 
-## README.md
-
-### Project Title
 
 **NOTESHARE – A Web Application for Sharing Study Notes**
 
@@ -25,8 +22,8 @@ This project is built using **React with TypeScript** and follows a clean and be
 
 * **Frontend:** React + TypeScript (Vite)
 * **Styling:** CSS / Tailwind (PostCSS)
-* **Backend / Database:** Firebase
-* **Authentication:** Firebase Auth
+* **Backend / Database:** Supabase
+* **Authentication:** Supabase Auth
 * **Build Tool:** Vite
 
 ### Project Structure
@@ -85,7 +82,7 @@ npm run dev
 
 ### Conclusion
 
-NOTESHARE is a beginner-level project that demonstrates the use of React, TypeScript, routing, authentication, and basic project structure. It is suitable as a college minor project.
+NOTESHARE is a beginner-level project that demonstrates the use of React, TypeScript, routing, authentication, and basic project structure.
 
 ---
 
@@ -93,7 +90,7 @@ NOTESHARE is a beginner-level project that demonstrates the use of React, TypeSc
 
 ### 1. Abstract
 
-The NOTES SHARE project is a web-based application developed to help students share and access study materials easily. The system allows authenticated users to view notes, while administrators can manage the platform. This project helps in understanding modern web development using React and Firebase.
+The NOTES SHARE project is a web-based application developed to help students share and access study materials easily. The system allows authenticated users to view notes, while administrators can manage the platform. This project helps in understanding modern web development using React and Supabase.
 
 ### 2. Problem Statement
 
@@ -105,7 +102,7 @@ Students often face difficulty in sharing notes efficiently. Existing platforms 
 * To implement user authentication
 * To create an admin panel for management
 * To understand React with TypeScript
-* To use Firebase for backend services
+* To use Supabase for backend services
 
 ### 4. Scope of the Project
 
@@ -128,7 +125,7 @@ This project can be used in colleges for internal note sharing. It can be extend
 
 * React
 * TypeScript
-* Firebase
+* Supabase
 * Vite
 * HTML, CSS
 
@@ -137,7 +134,7 @@ This project can be used in colleges for internal note sharing. It can be extend
 The system follows a client-server model:
 
 * Frontend handles UI and routing
-* Firebase handles authentication and database
+* Supabase handles authentication and database
 * Context API manages authentication state
 
 ### 8. Module Description
@@ -145,7 +142,7 @@ The system follows a client-server model:
 * **Authentication Module:** Handles login and logout
 * **Dashboard Module:** Displays user content
 * **Admin Module:** Controls users and notes
-* **Database Module:** Firebase configuration and access
+* **Database Module:** Supabase configuration and access
 
 ### 9. Advantages
 
@@ -168,8 +165,7 @@ The system follows a client-server model:
 
 ### 12. Conclusion
 
-The NOTES SHARE project successfully meets its objectives and demonstrates practical knowledge of modern web technologies. It is a suitable and effective minor project for college submission.
-
----
+The NOTES SHARE project successfully meets its objectives and demonstrates practical knowledge of modern web technologies.
 
 **Technology:** React + TypeScript
+
